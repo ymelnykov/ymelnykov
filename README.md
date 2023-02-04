@@ -1,11 +1,23 @@
-- 👋 Hi, I’m @ymelnykov
-- 👀 I’m interested in getting new job as a (junior) software engineer or web developer.
-- 🌱 I’m currently learning Computer Science Fundamentals, Python, Web Programming.
-- 💞️ I’m looking to collaborate on ... and on :-)
-- 📫 How to reach me ... Try ymelnykov@gmail.com
-- **Who and What am I**
-- I am a happy father of two adult children whom I am really proud of as well as a self taught Computer Science student, PhD in Metal Forming, former research officer in the field of metallurgy and metal forming, freelance translator.
-- I love travelling, walking, cycling, snorkling, wine making, DIY projects and good meals :-)
+# Hi, I’m Yuriy (@ymelnykov)
+
+My name is Yuriy Melnykov and I live in the city of Zaporizhzhia, Ukraine. When the war came to my country, I lost my job and took it for an opportunity to switch my career and become an IT specialist, of which I was thinking for many years, but couldn't bring myself to. I was 45 then, but did venture upon it. Since that moment I've successfully finished Scientific Computing with Python (freeCodeCamp), CS50's Introduction to Computer Science (Harvard University), CS50's Web Programming with Python and JavaScript (Harvard University) courses, had some training in using Google Cloud Platform, completed 7 web projects and solved dozens of problems of various scope and complexity. I keep on studying and find it very exciting.
+
+Now, I feel myself prepared to apply my newly acquired skills in a professional setting and am interested in getting a new job.
+
+## My Skills
+
+- Python, Django, Flask
+- SQL, SQLite
+- JavaScript, HTML, CSS, Bootstrap
+- Google Cloud Platform
+- Git
+
+## How to reach me
+
+ymelnykov@gmail.com
+
+[Linkedin](https://www.linkedin.com/in/yuriy-melnykov/)
+
 <!---
 ymelnykov/ymelnykov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
