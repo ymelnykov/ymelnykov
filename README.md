@@ -6,13 +6,13 @@ Now, I feel myself prepared to apply my newly acquired skills in a professional 
 
 ## My Skills
 
-- Python, Django, Django Rest Framework
+- Python, Django, Django REST Framework
 - SQL, SQLite
 - JavaScript, React, Redux
 - HTML, CSS, Bootstrap
 - Google Cloud Platform
-- Git
-- Fluent Englich
+- Git, GitHub
+- Fluent English
 
 ## How to reach me
 
